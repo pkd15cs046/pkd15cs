@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-  printf("hello gd mng");
-  printf("*************************");
-  printf("welcome to git program");
+  int a;
 printf("welcome to git programming");
 return 0;
+printf("enter a number:");
+scanf("%d,&a")
 }
