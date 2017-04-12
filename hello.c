@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("hello world");
+printf("welcome to git programming");
 return 0;
 }
